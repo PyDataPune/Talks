@@ -13,10 +13,10 @@ To Propose a Talk make a issue <a href = 'https://github.com/PyDataPune/Talks/is
     <th>Resources</th>
   </th>  
   <tr>
-    <td></td>
-    <td>Date</td>
-    <td>Talk Title</td>
-    <td>Speaker Name>/td>
-    <td>Resources</td>
+    <td>10</td>
+    <td>Jan 05, 2019</td>
+    <td>Attention is not quite all you need</td>
+    <td>Ashwath Salimath</td>
+    <td><a href = 'https://speakerdeck.com/ashwathsalimath/attention-is-not-quite-all-you-need'>link</a></td>
   </tr>
 </table>
