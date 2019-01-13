@@ -5,13 +5,13 @@ To Propose a Talk make a issue <a href = 'https://github.com/PyDataPune/Talks/is
   
 ## List of Talks at PyData Pune
 <table>
-  <tr>
+  <th>
     <td>Meetup Event No</td>
     <td>Date</td>
     <td>Talk Title</td>
     <td>Speaker Name>/td>
     <td>Resources</td>
-  </tr>  
+  </th>  
   <tr>
     <td></td>
     <td>Date</td>
