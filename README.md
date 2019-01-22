@@ -19,4 +19,18 @@ To Propose a Talk make a issue <a href = 'https://github.com/PyDataPune/Talks/is
     <td>Ashwath Salimath</td>
     <td><a href = 'https://speakerdeck.com/ashwathsalimath/attention-is-not-quite-all-you-need'>link</a></td>
   </tr>
+  <tr>
+    <td>09</td>
+    <td>Nov 25, 2018</td>
+    <td>The concept of Recommender System</td>
+    <td>Ankush Tale</td>
+    <td><a href = 'https://www.youtube.com/watch?v=AYQlREpZrrc&t=484s'>link</a></td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>Nov 25, 2018</td>
+    <td>Dask - Pythonic way of parallelizing scientific computation</td>
+    <td>Mayank Mishra</td>
+    <td><a href = 'https://speakerdeck.com/mayankskb/dask-pythonic-way-of-parallelizing-scientific-computation'>link</a></td>
+  </tr>
 </table>
